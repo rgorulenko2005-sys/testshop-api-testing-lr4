@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+api-report.html
+api-results.xml
